@@ -20,7 +20,7 @@ export const getAllProperties = async() => {
         }
         return response.data
     }catch (error){
-        toast.error("Something went wrong");
+        toast.error("Erro ao carregar os dados");
         throw error 
     }
 };
@@ -38,7 +38,7 @@ export const getProperty = async( id) => {
         }
         return response.data
     }catch (error){
-        toast.error("Something went wrong");
+        toast.error("Erro ao carregar os dados");
         throw error 
     }
 };
