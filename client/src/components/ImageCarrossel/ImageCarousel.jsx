@@ -7,7 +7,8 @@ const PropertyCarousel = ({ propertyId }) => {
   useEffect(() => {
     async function fetchProperty() {
       try {
-        const res = await fetch(`${process.env.REACT_APP_API_URL}/api/properties/${propertyId}`);
+        const res = await fetch(`${import.meta.env.VITE_API_URL}/api/properties/${propertyId}`);
+
         const data = await res.json();
         setProperty(data);
       } catch (err) {
