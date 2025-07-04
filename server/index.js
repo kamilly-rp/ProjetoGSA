@@ -18,7 +18,7 @@ app.use(cookieParser());
 const allowedOrigins = [
   'http://localhost:5173', 
   'http://localhost:5174',
-  'https://projeto-gsa.vercel.app'  // cors backend aceita frontend do versel
+  'www.gsaimobiliaria.com.br'  // cors backend aceita frontend do versel
 ];
 
 app.use(cors({
