@@ -15,8 +15,8 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-  origin: 'https://gsa-frontend.onrender.com',
-  credentials: true,
+   origin: process.env.CLIENT_URL,
+   credentials: true,
 }));
 
 // Conexão com MongoDB
@@ -28,7 +28,7 @@ mongoose.connect(process.env.MONGO_URL, {
   console.log(' MongoDB conectado com sucesso');
   // Inicia o servidor só depois de conectar ao banco
   app.listen(PORT, () => {
-    console.log(`🚀 Servidor rodando na porta ${PORT}`);
+    console.log(`Servidor rodando na porta ${PORT}`);
   });
 })
 .catch((err) => {
