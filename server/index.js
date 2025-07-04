@@ -14,10 +14,20 @@ const PORT = process.env.PORT || 3000;
 // Middleware
 app.use(express.json());
 app.use(cookieParser());
+
+const allowedOrigins = ['http://localhost:5173', 'http://localhost:5174'];
+
 app.use(cors({
-   origin: 'http://localhost:5173',
-   credentials: true,
+  origin: function(origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('Origin not allowed by CORS'));
+    }
+  },
+  credentials: true,
 }));
+
 
 // Conexão com MongoDB
 mongoose.connect(process.env.MONGO_URL, {
