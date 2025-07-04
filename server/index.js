@@ -18,7 +18,8 @@ app.use(cookieParser());
 const allowedOrigins = [
   'http://localhost:5173', 
   'http://localhost:5174',
-  'www.gsaimobiliaria.com.br'  // cors backend aceita frontend do versel
+   'https://gsaimobiliaria.com.br', //
+  'https://www.gsaimobiliaria.com.br',  // cors backend aceita frontend do versel
 ];
 
 app.use(cors({
