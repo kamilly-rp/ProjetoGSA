@@ -74,15 +74,20 @@ export const createResidency = asyncHandler(async (req, res) => {
 });
 
 // Função de exportar todos os imóveis para o site
-export const getAllResidencies = asyncHandler(async (req, res) => {
-  const residencies = await prisma.residency.findMany({
-    orderBy: {
-      createdAt: "desc"
-    }
-  });
-  console.log(residencies);
-  res.send(residencies);
-});
+export const getAllResidencies = async (req, res) => {
+  try {
+    const residencies = await prisma.residency.findMany({
+      orderBy: {
+        createdAt: "desc",
+      },
+    });
+
+    res.status(200).json(residencies);
+  } catch (err) {
+    console.error("Erro ao buscar residências:", err);
+    res.status(500).json({ error: "Erro ao buscar imóveis", details: err.message });
+  }
+};
 
 // Função para obter um imóvel específico
 export const getResidency = asyncHandler(async (req, res) => {
