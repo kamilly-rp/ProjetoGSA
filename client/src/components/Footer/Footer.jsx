@@ -48,8 +48,8 @@ const Footer = () => {
               Desenvolvedor
             </a> <br />
             
-            {/* para add opção de adicionar novos imoveis pelo site. Mas tem que colocar um acesso ai pra só dev conseguir mexer */}
-             <div>DevControl</div>
+            {/* para add opção de adicionar novos imoveis pelo site. Mas tem que colocar um acesso ai pra só dev conseguir mexer (obs vou deixar isso pra lá) 
+             <div>DevControl</div>*/}
 
 
           </div>

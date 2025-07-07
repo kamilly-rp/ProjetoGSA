@@ -33,6 +33,10 @@ app.use(cors({
   credentials: true,
 }));
 
+// Rota de "ping" para manter o servidor acordado
+app.get('/ping', (req, res) => {
+  res.status(200).send('pong');
+});
 
 // Conexão com MongoDB
 mongoose.connect(process.env.MONGO_URL, {
