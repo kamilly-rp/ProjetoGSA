@@ -209,7 +209,7 @@ const Property = () => {
               </div>
               <div className="flexStart facility">
                 <AiTwotoneCar size={20} color="#1F3E72" />
-                <span>{data?.facilities?.parking} GARAGEM</span>
+                <span>{data?.facilities?.garage} GARAGEM</span>
               </div>
               <div className="flexStart facility">
                 <MdMeetingRoom size={20} color="#1F3E72" />

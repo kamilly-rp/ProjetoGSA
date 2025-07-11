@@ -604,7 +604,47 @@
     "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1750265533/15-19_img_spsgiz.jpg",
     "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1750265530/15-16_img_y3senr.jpg"
     
+    ]},
+
+     {"_id":{"$oid":"68533a0e72e8664673b221ff"},
+  "title":"Apartamento a venda na região da Cidade Tiradentes - setor G",
+  "description":"Imóvel possui: 46 m², 2 dormitórios, sala, cozinha, banheiro, lavanderia e 1 vaga fixa de garagem descoberta. Com Taxa de condomínio de R$ 200,00. Aceita financiamento.",
+  "price":{"$numberLong":"135000"},
+  "address":"Setor G - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237010/16-06_img_zhougj.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "46m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10016",
+  "financing":"SIM",
+  "iptu":"0",
+  "downPayment":"0",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237011/16-07_img_ntbvqs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237011/16-08_img_lnxmv6.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237010/16-01_img_ygav1n.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237010/16-04_img_dwrtzt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237010/16-06_img_zhougj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237010/16-03_img_yedmwf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237010/16-05_img_rwqz5u.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237010/16-02_img_rclibv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237011/16-10_img_jpwdus.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752237013/16-09_img_u9bem4.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1752237154/16-11_video_ov3kuy.mp4"
+    
     ]}
+
+
 
 
 ]
