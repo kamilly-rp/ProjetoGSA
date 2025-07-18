@@ -679,7 +679,45 @@
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752519754/17_05_img_ze3pyu.jpg",
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752519754/17_01_img_qh8yda.jpg"
     
+    ]},
+
+
+
+  {"_id":{"$oid":"687556d69c9f71d1c292cd8f"},
+  "title":"Apartamento na Cidade Tiradentes",
+  "description":"Apartamento na rua Alves Domingo Rêgo - Cidade Tiradentes. Imóvel possui: 2 dormitórios, sala, cozinha, lavanderia, banheiro. Imóvel não possui vaga de garagem. Aceita financiamento.",
+  "price":{"$numberLong":"140000"},
+  "address":"Rua Alves Domingo Rêgo - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867518/18_05_img_pdxtxb.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "46m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10018",
+  "financing":"SIM",
+  "iptu":"0",
+  "downPayment":"0",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867519/18_07_img_hxdxxo.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867519/18_08_img_zosrig.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867519/18_06_img_f7updr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867519/18_03_img_d909za.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867518/18_02_img_kwcvxs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867518/18_05_img_pdxtxb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867518/18_04_img_upkxpw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867518/18_01_imga_irsexv.jpg"
+   
     ]}
+
 
 
 ]
