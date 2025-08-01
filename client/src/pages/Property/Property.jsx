@@ -178,9 +178,21 @@ const Property = () => {
                 gap: "2rem",
                 flexWrap: "wrap"
             }}>
-            <span className="secondaryText"><strong>Aceita Financiamento:</strong> {data?.financing || 'Não informado'}</span>
-            <span className="secondaryText"><strong>IPTU:</strong> {data?.iptu ? `R$ ${Number(data.iptu).toLocaleString('pt-BR')}` : 'Não informado'}</span>
-            <span className="secondaryText"><strong>Entrada:</strong> {data?.downPayment ? `R$ ${Number(data.downPayment).toLocaleString('pt-BR')}` : 'Não informado'}</span>
+            <span className="secondaryText">
+              <strong>Aceita Financiamento:</strong> {data?.financing || 'Não informado'}
+            </span>
+            <span className="secondaryText">
+              <strong>IPTU:</strong> 
+              {data?.iptu == null 
+                ? "Não informado" 
+                : `R$ ${Number(data.iptu).toLocaleString('pt-BR')}`}
+            </span>
+            <span className="secondaryText">
+              <strong>Entrada:</strong> 
+              {data?.downPayment == null 
+                ? "Não informado" 
+                : `R$ ${Number(data.downPayment).toLocaleString('pt-BR')}`}
+            </span>
         </div>   
 
 

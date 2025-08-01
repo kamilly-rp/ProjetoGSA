@@ -9,19 +9,23 @@ export const createResidency = asyncHandler(async (req, res) => {
   try {
     const data = req.body;
 
-        //  Função para converter campo para Int, mesmo se vier como string ou objeto
-     const convertToInt = (field) => {
-      if (typeof data[field] === "string" && data[field].trim() !== "") {
-        data[field] = parseInt(data[field], 10);
-      }
-      if (typeof data[field] === "object" && data[field]?.$numberLong) {
-        data[field] = parseInt(data[field].$numberLong, 10);
-      }
-      if (!data[field] || isNaN(data[field])) {
-        delete data[field]; // remove campo inválido
-      }
-    };
-
+              //  Função para converter campo para Int, mesmo se vier como string ou objeto (Atualizado 01/08/25 para aceitar null e zero no iptu)
+   const convertToInt = (field) => {
+  if (typeof data[field] === "string" && data[field].trim() !== "") {
+    // Remove pontos e vírgulas antes de converter
+    const cleaned = data[field].replace(/[.,]/g, "");
+    const parsed = parseInt(cleaned, 10);
+    if (!isNaN(parsed)) {
+      data[field] = parsed;
+    } else {
+      delete data[field];
+    }
+  } else if (typeof data[field] === "object" && data[field]?.$numberLong) {
+    data[field] = parseInt(data[field].$numberLong, 10);
+  } else if (data[field] === "" || data[field] === null || data[field] === undefined) {
+    delete data[field];
+  }
+};
     // Converte todos os campos numéricos que o Prisma espera como Int
     ["price", "downPayment", "iptu", "bedrooms", "bathrooms", "garage", "area"].forEach(convertToInt);
 
@@ -50,6 +54,7 @@ export const createResidency = asyncHandler(async (req, res) => {
         garage: data.garage,
         area: data.area,
         financing: data.financing,
+        downPayment: data.downPayment,
         iptu: data.iptu,
         carrossel: data.carrossel,
         owner: {

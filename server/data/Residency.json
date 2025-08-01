@@ -716,7 +716,165 @@
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867518/18_04_img_upkxpw.jpg",
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1752867518/18_01_imga_irsexv.jpg"
    
+    ]},
+
+{"_id":{"$oid":"688a16e1c769ada34222a701"},
+  "title":"Mansão em Itaquera",
+  "description":"Apresentamos esta incrível mansão térrea em Itaquera, com terreno de 12,50 x 35,00 metros e 232 m² de área construída. Totalmente mobiliada, ela conta com 3 suítes confortáveis, sala de estar, sala de jantar, cozinha funcional, lavabo interno e lavabo externo. A área externa é um verdadeiro convite ao lazer, com deck, hidro spa para até 8 pessoas e uma área gourmet equipada com churrasqueira, pia com água quente, mesa e muito mais. O paisagismo é excelente, trazendo sofisticação e charme ao ambiente. Para sua segurança e tranquilidade, o imóvel possui um sistema moderno com 22 câmeras, alarme e cerca elétrica. Além disso, oferece 3 vagas de garagem. Um verdadeiro refúgio urbano, pronto para morar!",
+  "price":{"$numberLong":"1800000"},
+  "address":"",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878247/19_23_img_axlnmq.jpg",
+   "facilities": {
+    "bathrooms": "3",
+    "bedrooms": "3",
+    "area": "232m²",
+    "garage": "3"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10019",
+  "financing":"Não informado",
+  "iptu":"0",
+  "downPayment":"0",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878323/19_59_img_inahky.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878323/19_58_img_ut4okw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878322/19_57_img_iuzunl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878321/19_56_img_o9tmnb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878321/19_55_img_nmcgar.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878320/19_54_img_pbeah3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878319/19_53_img_hu1dzw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878319/19_52_img_o1g8em.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878318/19_51_img_etitpj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878318/19_50_img_jqdlzq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878317/19_49_img_mc9jx5.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878317/19_47_img_y14dp8.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878316/19_48_img_vbvohx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878316/19_46_img_mee3wm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878315/19_45_img_rokoqf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878313/19_44_img_hbcig1.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878313/19_43_img_aydlzf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878312/19_42_img_uerhly.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878312/19_41_img_f87rwx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878274/19_40_img_rtrvqr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878255/19_39_img_cm03jg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878255/19_38_img_p91qyz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878254/19_36_img_xw8t8o.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878254/19_37_img_th8n09.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878253/19_35_img_box1ga.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878253/19_34_img_qfnaji.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878252/19_33_img_iu2edx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878252/19_32_img_uw09co.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878251/19_31_img_i9nsva.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878250/19_30_img_k8sree.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878250/19_29_img_lgw8yd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878249/19_28_img_drtb2w.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878249/19_27_img_weov1c.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878248/19_26_img_frrir8.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878247/19_25_img_clkuvh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878247/19_24_img_hbkjjc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878247/19_23_img_axlnmq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878246/19_22_img_jx0bgw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878245/19_21_img_gwpjjb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878245/19_20_img_kxdb1z.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878244/19_19_img_rtssoc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878243/19_18_img_o9lmje.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878243/19_17_img_outcp2.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878242/19_15_img_hobz6c.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878242/19_16_img_n7rxoi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878241/19_14_img_vhfzoy.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878241/19_13_img_apsbcr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878240/19_12_img_oyn8do.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878239/19_11_img_emv74j.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878239/19_10_img_okwf7l.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878238/19_09_img_asyld8.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878238/19_08_img_qigrzx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878238/19_07_img_wcsrfg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878235/19_06_img_v4wrnp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878235/19_05_img_vjaab2.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878235/19_04_img_iqkpjb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878235/19_02_img_qhf1u3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878234/19_03_img_r9ij2m.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753878234/19_01_img_kgluib.jpg"
+   
+   
+    ]},
+
+
+
+{"_id":{"$oid":""},
+  "title":"Terreno em Mogi das Cruzes",
+  "description":"Terreno à venda com 5mil m² em Mogi das Cruzes, localizado de frente para a represa. Documentação em ordem, com escritura, e IPTU isento",
+  "price":{"$numberLong":"1500000"},
+  "address":"Mogi das Cruzes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753895860/20_03_img_i469ea.jpg",
+   "facilities": {
+    "bathrooms": "0",
+    "bedrooms": "0",
+    "area": "0m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10020",
+  "financing":"Não informado",
+  "iptu":"0",
+  "downPayment":"0",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753895860/20_03_img_i469ea.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753895859/20_02_img_jg7dbv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753895858/20_01_img_rhtkxa.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1753895861/20_02_video_nx5nq4.mp4"
+   
+    ]},
+
+
+{"_id":{"$oid":"688a64389b612cd37989e2ee"},
+  "title":"Apartamento Reformado e Quitado!",
+  "description":"Se você busca um lar moderno, confortável e recém-reformado, essa é a oportunidade perfeita! \nApartamento com 2 quartos com acabamento sofisticado, \nsala moderna com teto rebaixado em gesso e iluminação LED, \ncozinha planejada com armários novos e bancada de granito, \nbanheiro \nlavanderia também com teto rebaixado e luzes de LED, \nacabamento moderno em todos os cômodos. . \nCondomínio com salão de festas e vaga exclusiva para moto. \nLocalização privilegiada, com tudo perto: menos de 1 km dos atacadistas Assaí e Bem Barato, Casas Bahia, Lojas Cem, McDonald's (4 min a pé) e em breve um Burger King. Próximo também a posto de saúde (500m), Hospital Santa Marcelina (5 min), EMEI na mesma rua, creche, escola, empresas metalúrgicas, posto de gasolina (500m) e diversas linhas de ônibus.\nImóvel quitado, sem burocracia, não aceita financiamento (PAGAMENTO À VISTA) \nAgende sua visita e não perca essa oportunidade de morar bem, com tudo ao seu alcance!",
+  "price":{"$numberLong":"145000"},
+  "address":"Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899520/21_01_img_hry61d.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "46m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10021",
+  "financing":"NÂO",
+  "iptu":"00",
+  "downPayment":"145.000",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899520/21_01_img_hry61d.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899521/21_02_img_fsba5q.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899522/21_03_img_ufvzgl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899523/21_04_img_rzz6te.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899524/21_05_img_fi6xek.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899525/21_06_img_mrt4up.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899526/21_07_img_kkszfi.jpg"
+   
     ]}
+
+
+
 
 
 
