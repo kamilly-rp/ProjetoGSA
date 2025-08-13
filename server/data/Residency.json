@@ -871,9 +871,48 @@
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899525/21_06_img_mrt4up.jpg",
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1753899526/21_07_img_kkszfi.jpg"
    
+    ]},
+
+{"_id":{"$oid":""},
+  "title":"Apartamento no Aricanduva",
+  "description":"Localizado na Rua Olha Fadel Abarca, próximo ao Mix Aricanduva 2, este apartamento de 52m² com vaga de garagem está situado em torre individual, no 16º andar de um prédio com 19 andares. Conta com 2 quartos, sala de estar e jantar integradas, banheiro, cozinha e sacada, todos os ambientes mobiliados com planejados de excelente qualidade. A cozinha, sacada e banheiro possuem revestimento em porcelanato e pastilhas de vidro, enquanto quartos e sala apresentam aconchegante piso de madeira. As portas de correr garantem melhor aproveitamento dos espaços. O condomínio oferece portaria 24 horas com controle digital e dupla clausura, além de monitoramento em todas as áreas comuns. A estrutura é completa: espaço pet, churrasqueira, salão de pizza coberto e individualizado, salão de festas, playground, quadra poliesportiva, brinquedoteca, salão de jogos, academia, mercado interno, lavanderia administrada pela Omo (com 3 lavadoras, 3 secadoras e máquina para pets), carrinhos para compras, caixas de correio individualizadas e 4 elevadores. Gás, água e luz são individualizados. Imóvel avaliado em R$ 360.000,00, à venda por R$ 340.000,00. Até a venda, há possibilidade de locação por R$ 2.800,00 mensais, já com condomínio incluso (valor aproximado do condomínio: R$ 500,00).",
+  "price":{"$numberLong":"340000"},
+  "address":"Rua olha Fadel abarca 350 / mix Aricanduva 2",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084445/22_09_img_yo6shq.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "52m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10021",
+  "financing":"Não informado",
+  "iptu":"0",
+  "downPayment":"0",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084442/22_02_img_wx6zc0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084442/22_01_img_gfi3n5.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084442/22_04_img_mdu1aj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084443/22_03_img_wzweyi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084443/22_06_img_t4sxjn.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084443/22_05_img_mdvtx1.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084444/22_08_img_t5n6eg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084445/22_09_img_yo6shq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084445/22_07_img_mg0pj0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084445/22_10_img_w9opwl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755084445/22_11_img_fal71s.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1755084446/22_14_video_kj8wkx.mp4",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1755084447/22_13_video_rtrrwh.mp4",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1755084449/22_12_video_ybyfoa.mp4"
+   
     ]}
-
-
 
 
 
