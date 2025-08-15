@@ -8,6 +8,7 @@ import { sliderSettings } from "../../utils/common";
 import PropertyCard from "../PropertyCard/PropertyCard";
 import useProperties from "../../hooks/useProperties";
 import {PuffLoader} from 'react-spinners'
+import { NavLink } from "react-router-dom";
 const Residencies = () => {
 
   const {data, isError, isLoading} = useProperties ()
@@ -51,6 +52,13 @@ const Residencies = () => {
             </SwiperSlide>
           ))}
         </Swiper>
+        <NavLink 
+          to="/properties" 
+          className="button" 
+          style={{ float: "right", marginRight: "75px", margin: "40px" }}
+          >
+          Veja mais
+        </NavLink>
       </div>
     </div>
   );

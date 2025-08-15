@@ -265,6 +265,7 @@ const Property = () => {
         </div>
       </div>
     </div>
+    
   );
 };
 
