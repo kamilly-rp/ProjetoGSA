@@ -890,7 +890,7 @@
   "userEmail":"kamillyr284@gmail.com",
   "createdAt":{"$date":{"$numberLong":"1750284814210"}},
   "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
-  "code":"10021",
+  "code":"10022",
   "financing":"Não informado",
   "iptu":"0",
   "downPayment":"0",
@@ -912,8 +912,41 @@
    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1755084447/22_13_video_rtrrwh.mp4",
    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1755084449/22_12_video_ybyfoa.mp4"
    
-    ]}
+    ]},
 
+    {"_id":{"$oid":""},
+  "title":"Apartamento na Guilhermina Esperança",
+  "description":"Apartamento à venda na Guilhermina Esperança, localizado na Rua Dr. Fábio Montenegro, 634. Com 50m², no 4º andar, o imóvel conta com 2 dormitórios, sala iluminada, cozinha prática, banheiro social e lavanderia. A apenas 7 minutos a pé da estação, oferece mobilidade e praticidade para o dia a dia. Com valor de R$ 265.000,00 e condomínio de apenas R$ 200,00, é uma ótima oportunidade para quem busca conforto, localização estratégica e excelente custo-benefício.",
+  "price":{"$numberLong":"265000"},
+  "address":"Rua doctor Fábio Montenegro 634 ",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602724/23_03_img_bs1pr2.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "50m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":""}},
+  "updatedAt":{"$date":{"$numberLong":""}},
+  "code":"10023",
+  "financing":"Não informado",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602725/23_07_img_lgbxzv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602725/23_01_img_rfbgvb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602725/23_06_img_vvf10h.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602725/23_05_img_dvqklf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602725/23_04_img_e38t2y.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602724/23_02_img_oz91tp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602724/23_03_img_bs1pr2.jpg"
+   
+    ]}
 
 
 
