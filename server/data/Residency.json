@@ -914,7 +914,7 @@
    
     ]},
 
-    {"_id":{"$oid":""},
+    {"_id":{"$oid":"68a4622a18d8f7b406ac8c86"},
   "title":"Apartamento na Guilhermina Esperança",
   "description":"Apartamento à venda na Guilhermina Esperança, localizado na Rua Dr. Fábio Montenegro, 634. Com 50m², no 4º andar, o imóvel conta com 2 dormitórios, sala iluminada, cozinha prática, banheiro social e lavanderia. A apenas 7 minutos a pé da estação, oferece mobilidade e praticidade para o dia a dia. Com valor de R$ 265.000,00 e condomínio de apenas R$ 200,00, é uma ótima oportunidade para quem busca conforto, localização estratégica e excelente custo-benefício.",
   "price":{"$numberLong":"265000"},

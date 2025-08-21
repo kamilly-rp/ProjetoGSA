@@ -84,7 +84,7 @@ const Contact = () => {
         {/* right side */}
         <div className="flexEnd c-right">
           <div className="image-container">
-            <img src="./contact.jpg" alt="" />
+            <img src="https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755783439/tiro-vertical-de-um-edificio-branco-sob-o-ceu-claro_obrpgt.jpg" alt="" />
           </div>
         </div>
       </div>
