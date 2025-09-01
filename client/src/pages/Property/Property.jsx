@@ -251,15 +251,16 @@ const Property = () => {
            
            {/* WhatsApp com mensagem personalizada */}
             <a
-                href={`https://wa.me/5511951956732?text=${encodeURIComponent(
-                  `(Por gentileza, não edite essa mensagem, desta maneira nossa equipe poderá atendê-lo de uma maneira mais dinâmica)\n Olá, vim pelo site.\nTenho interesse no imóvel "${data?.title}", código ${data?.code}. Poderia me passar mais informações?`
-                )}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="button"
-                style={{ textDecoration: 'none', display: 'inline-block', textAlign: 'center' }}
-              >
-                Entre em contato
+              href={`https://wa.me/5511951956732?text=${encodeURIComponent(
+                `(Por gentileza, não edite essa mensagem, desta maneira nossa equipe poderá atendê-lo de uma maneira mais dinâmica)
+                  \nOlá, vim pelo site. Tenho interesse no imóvel "${data?.title}", código ${data?.code}.\n ${data?.image} \n Poderia me passar mais informações?`
+              )}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="button"
+              style={{ textDecoration: 'none', display: 'inline-block', textAlign: 'center' }}
+            >
+              Entre em contato
             </a>
           </div>
         </div>
