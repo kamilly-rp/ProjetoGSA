@@ -249,7 +249,7 @@ const Property = () => {
             {/* Booking Button */}
            
            
-           {/* WhatsApp com mensagem personalizada */}
+           {/* WhatsApp com mensagem personalizada */}                                        
             <a
               href={`https://wa.me/5511951956732?text=${encodeURIComponent(
                 `(Por gentileza, não edite essa mensagem, desta maneira nossa equipe poderá atendê-lo de uma maneira mais dinâmica)

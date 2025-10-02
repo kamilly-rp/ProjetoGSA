@@ -946,8 +946,187 @@
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602724/23_02_img_oz91tp.jpg",
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1755602724/23_03_img_bs1pr2.jpg"
    
-    ]}
+    ]},
 
+    {"_id":{"$oid":"68c834ac1c165cd3a14db8a2"},
+  "title":"Oportunidade na Praia Grande!",
+  "description":"Oportunidade imperdível na Praia Grande, no bairro Vila Caiçara! Esse lindo apartamento conta com vista para o mar, dois dormitórios sendo uma suíte, duas vagas de garagem e está em um condomínio com lazer completo para toda a família. No valor é de R$ 550.000,00 e aceita financiamento bancário. Localizado em uma das melhores regiões da cidade, é a chance perfeita para você conquistar seu imóvel na praia!",
+  "price":{"$numberLong":"550000"},
+  "address":"Vila Caiçara",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949983/24_01_img_n28nmu.jpg",
+   "facilities": {
+    "bathrooms": "2",
+    "bedrooms": "2",
+    "area": "87m²",
+    "garage": "2"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":""}},
+  "updatedAt":{"$date":{"$numberLong":""}},
+  "code":"10024",
+  "financing":"SIM",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949972/24_08_img_solyje.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949970/24_02_img_g1ocqb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949983/24_01_img_n28nmu.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949968/24_03_img_dgoiis.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949969/24_04_img_bvexxb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949970/24_06_img_o5sqti.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949971/24_07_img_vlle7z.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949972/24_05_img_qmsanr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949972/24_08_img_solyje.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949974/24_11_img_xxrygm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949974/24_09_img_eu8whs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949975/24_12_img_pjllvh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949975/24_10_img_kfmjzv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949976/24_13_img_fjfn7b.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949977/24_15_img_ahwfid.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949977/24_14_img_dtdtjf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949978/24_17_img_g7n0h1.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949978/24_16_img_aznis2.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757949979/24_18_img_ey9cod.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950002/24_20_img_ywptum.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950002/24_22_img_m4tkj9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950004/24_24_img_x9boex.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950004/24_26_img_lcicbb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950004/24_21_img_nrmcqm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950005/24_25_img_roccax.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950006/24_27_img_subx6m.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950006/24_28_img_ki2hdj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950007/24_30_img_bzu2qy.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950007/24_23_img_zr2dtd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950007/24_31_img_oxjk0g.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950008/24_29_img_bxvioz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950008/24_32_img_ffsae6.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950009/24_34_img_ehus4p.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950009/24_33_img_wfir5z.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950010/24_19_img_o40qhq.jpg"
+   
+   ]},
+
+
+
+     {"_id":{"$oid":""},
+  "title":"Apartamento Igarapé água azul",
+  "description":"Apartamento à venda em Igarapé Água Azul! Térreo, com 2 dormitórios e 46 m², incluindo vaga fechada. O valor do imóvel é R$ 93.000,00, com saldo para quitação de R$ 29.000,00 e prestações de R$ 320,00. Uma ótima oportunidade para quem busca praticidade e conforto em uma excelente localização!",
+  "price":{"$numberLong":"93000"},
+  "address":"Igarapé água azul",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950556/25_02_img_mo4fda.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "46m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":""}},
+  "updatedAt":{"$date":{"$numberLong":""}},
+  "code":"10025",
+  "financing":"Não informado",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950561/25_10_img_o3n2u9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950560/25_09_img_mft2a9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950559/25_08_img_xbbkca.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950559/25_07_img_pnxqam.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950558/25_06_img_xq3bi6.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950557/25_05_img_nzlrjx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950557/25_04_img_b2otah.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950556/25_03_img_i8l4q6.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950556/25_02_img_mo4fda.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1757950556/25_01_img_wtg9ex.jpg"
+   
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento na Cidade Tiradentes",
+  "description":"Apartamento de 56m², 2 dormitórios (com opção de fazer o 3 dormitório), sala, cozinha, área de serviço separada, 1 garagem fechada, todo reformado, teto rebaixado, sanca de gesso, 5º andar. Aceita financiamento bancário, podendo usar o FGTS.",
+  "price":{"$numberLong":"180000"},
+  "address":"Rua José Francisco Brandão - cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_01_img_tifz6l.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "56m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":""}},
+  "updatedAt":{"$date":{"$numberLong":""}},
+  "code":"10026",
+  "financing":"SIM",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059221/26_11_img_nvnp09.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_10_img_mgdipv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_09_img_aquc3k.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_08_img_igshcd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_03_img_cwzqax.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_07_img_ldsdqt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_01_img_tifz6l.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059220/26_06_img_nuxkce.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059219/26_04_img_gow1kg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059219/26_05_img_cltbll.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758059219/26_02_img_mo7ee9.jpg"
+   
+   
+    ]},
+
+     {"_id":{"$oid":""},
+  "title":"Apartamento Região do Barro Branco",
+  "description":"Excelente oportunidade de apartamento à venda na região do Barro Branco, na Rua Alfonso Asturaro, nº 351. Com 48 m² bem distribuídos, o imóvel oferece 2 dormitórios aconchegantes, sala ampla, cozinha funcional, banheiro, lavanderia e 1 vaga de garagem rotativa. Ideal para quem busca praticidade e conforto no dia a dia, este apartamento está disponível por apenas R$ 210.000,00 e aceita financiamento. Uma chance única de conquistar o seu novo lar!",
+  "price":{"$numberLong":"210000"},
+  "address":"Rua Alfoso Asturaro n° 351",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660557/27_02-img_zfd9fw.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "48m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":""}},
+  "updatedAt":{"$date":{"$numberLong":""}},
+  "code":"10026",
+  "financing":"SIM",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660560/27_11-img_kkjhnq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660560/27_10-img_ojpwzj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660558/27_09-img_ziqnxj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660558/27_08-img_cgjg3d.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660558/27_06-img_xjwmjt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660558/27_07-img_cnl07h.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660557/27_05-img_ulpsn1.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660557/27_04-img_khihbe.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660557/27_02-img_zfd9fw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660557/27_03-img_owmwro.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660557/27_01_img_unflcf.jpg"
+   
+   
+    ]}
 
 
 ]
