@@ -21,7 +21,7 @@ export const getAllProperties = async () => {
     }
     return response.data;
   } catch (error) {
-    toast.error("Erro ao carregar os dados");
+    toast.error("Site em manutenção. Aguarde... ");
     throw error;
   }
 };
@@ -37,7 +37,7 @@ export const getProperty = async (id) => {
     }
     return response.data;
   } catch (error) {
-    toast.error("Erro ao carregar os dados");
+    toast.error("Site em manutenção. Aguarde...");
     throw error;
   }
 };

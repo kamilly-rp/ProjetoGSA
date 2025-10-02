@@ -33,7 +33,7 @@ const Properties = () => {
   if (isError) {
     return (
       <div className='wrapper'>
-        <span>Site em manutenção. Aguarde...</span> /* Editado, aparece quando não lê backend*/
+        <span>Erro ao carregar dados. Aguarde...</span>
       </div>
     );
   }
