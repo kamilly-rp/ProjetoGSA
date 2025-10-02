@@ -17,7 +17,7 @@ const Residencies = () => {
     if(isError){
         return(
             <div className='wrapper'>
-                <span>Error while fetching data</span>
+                <span>Erro. Por favor, aguarde.</span>
             </div>
         )
     }
