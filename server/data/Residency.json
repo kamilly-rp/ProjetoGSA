@@ -1126,6 +1126,54 @@
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1758660557/27_01_img_unflcf.jpg"
    
    
+    ]},
+
+     {"_id":{"$oid":""},
+  "title":"Casa para venda na região da Castro Alves",
+  "description":"Localizada na região da Castro Alves, esta casa na Rua Comitiva Esperança é perfeita para quem busca conforto e espaço. O imóvel conta com 3 dormitórios amplos, sala, cozinha funcional, além de um quintal espaçoso com varanda, ideal para momentos de lazer em família. Com 2 vagas de garagem, oferece toda a praticidade do dia a dia. Tudo isso por R$ 430.000,00. Uma excelente oportunidade para quem deseja morar bem!",
+  "price":{"$numberLong":"430000"},
+  "address":"Rua Comitiva esperança",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_03-img_aks7mj.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "3",
+    "area": "120m²",
+    "garage": "2"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":""}},
+  "updatedAt":{"$date":{"$numberLong":""}},
+  "code":"10027",
+  "financing":"Não informado ",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_02-img_jeizuc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_04-img_f9o6mz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_06-img_rdmgar.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_05-img_keuyjq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_01-img_t4n8gi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768245/28_08-img_dtxci9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768245/28_07-img_fobvns.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768245/28_09-img_jpww8a.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768245/28_11-img_iph5hf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768245/28_10-img_wymi7q.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768246/28_12-img_lqxoss.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768247/28_13-img_utikb9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768247/28_14-img_ynxxih.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768248/28_15-img_cvzwaq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768248/28_16-img_aonpd9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768248/28_17-img_w1z4pd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768249/28_18-img_crhamc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768250/28_20-img_jihy00.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768250/28_19-img_dd9pwo.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_03-img_aks7mj.jpg"
+   
+   
     ]}
 
 

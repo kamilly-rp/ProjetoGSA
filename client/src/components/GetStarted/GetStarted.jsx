@@ -13,7 +13,7 @@ const GetStarted = () => {
             
           </span>
           <button className="button" href>
-            <a href="https://wa.me/5511951956732?text=Ol%C3%A1%2C%20vim%20pelo%20site.%0AGostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20compra%20de%20im%C3%B3veis!">Contato</a>
+            <a href="https://wa.me/551130422831?text=Ol%C3%A1%2C%20vim%20pelo%20site.%0AGostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20compra%20de%20im%C3%B3veis!">Contato</a>
           </button>
         </div>
       </div>
