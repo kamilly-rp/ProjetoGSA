@@ -31,7 +31,7 @@ const Contact = () => {
                     <span className="secondaryText">(11) 3042-2831</span>
                   </div>
                 </div>
-                <a href="tel:+55(11)95195-6732" className="flexCenter button">Ligue Agora</a>
+                <a href="tel:+55(11)30422831" className="flexCenter button">Ligue Agora</a>
               </div>
 
               <div className="flexColCenter mode">
