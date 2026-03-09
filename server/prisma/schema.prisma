@@ -47,5 +47,4 @@ model Residency {
     carrossel Json?
 
 
-    @@unique(fields:[address, userEmail])
 }

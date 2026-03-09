@@ -1174,7 +1174,1025 @@
    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1759768244/28_03-img_aks7mj.jpg"
    
    
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Sobrado na Região do Shopping Aricanduva",
+  "description":"Sobrado da Roseno Construtora na R. Hibisco, 85 Cidade Líder, próximo ao Shopping Aricanduva. O imóvel conta com 3 dormitórios, 2 banheiros + lavabo, além de 2 vagas de garagem. São 110 m² de área construída, com garagem de 32 m² e 11 m² de área de permeabilização. Por R$ 640.000,00, aceita financiamento. Uma ótima oportunidade para quem busca conforto, boa localização e um sobrado moderno na Zona Leste!",
+  "price":{"$numberLong":"640000"},
+  "address":"Rua Hibisco, N 85 - Cidade Líder",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554999/29_01-img_-_Copia_okbbmg.jpg",
+   "facilities": {
+    "bathrooms": "2",
+    "bedrooms": "3",
+    "area": "110m²",
+    "garage": "2"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10028",
+  "financing":"SIM",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554348/29_02-img_q3brvf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554348/29_06-img_uyrvmg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554348/29_05-img_opnatp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554348/29_04-img_w2enll.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554348/29_03-img_qnuhbw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554349/29_08-img_jmhnqc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554349/29_10-img_caesc9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554349/29_07-img_cwxfy3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554349/29_09-img_cp4zs8.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1763554349/29_11-img_wmfjb3.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento no condomínio Sant Agostim",
+  "description":"Apartamento aconchegante à venda no Condomínio Sant Agostim, localizado na Rua Agrimensor Sugaya, 1133, no bairro Colônia em Itaquera. O imóvel fica no terceiro andar do bloco 2, possui 42 m² bem distribuídos, com 2 dormitórios, 1 vaga de garagem e excelente iluminação natural. Um dos grandes diferenciais é a praticidade do condomínio, que conta com um mercadinho interno, oferecendo mais comodidade para o dia a dia. O valor de venda é R$ 190.000,00, uma ótima oportunidade para quem busca um imóvel bem localizado, confortável e com fácil acesso ao comércio da região.",
+  "price":{"$numberLong":"190000"},
+  "address":"Rua agrimensor Sugaya, 1133, bairro colônia zona leste - Itaquera",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185621/30_06-img_bldrte.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "42m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10030",
+  "financing":"Não informado",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185621/30_06-img_bldrte.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185621/30_01-img_rjb2k2.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185621/30_08-img_zuuagi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185626/30_07-img_hw6eva.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185624/30_11-img_z9wbep.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185624/30_10-img_kl3jnw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185621/30_09-img_zzy2sm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185623/30_05-img_xcjzid.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185620/30_02-img_r3olw5.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185620/30_04-img_vlrzgn.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764185620/30_03-img_ujgn3p.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"O melhor da Penha!",
+  "description":"Sobrado moderno com 236m² de área construída, distribuído em 3 pavimentos planejados para oferecer conforto, exclusividade e um acabamento de altíssimo padrão em um dos endereços mais desejados da zona leste, com sala de estar integrada à sala de jantar, 3 vagas de garagem, piscina com cascata, jardim de inverno, cozinha gourmet completa, 3 suítes (sendo uma com sacada principal), lavabo moderno, luminárias sofisticadas e portão elétrico; disponível por R$ 1.250.000,00, com possibilidade de financiamento bancário e permuta, aceitando apartamento ou veículo de menor valor como parte do pagamento.",
+  "price":{"$numberLong":"1250000"},
+  "address":"Penha",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764592133/31_34-img_hfz0wc.jpg",
+   "facilities": {
+    "bathrooms": "3",
+    "bedrooms": "3",
+    "area": "236m²",
+    "garage": "3"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10031",
+  "financing":"SIM",
+  "iptu":"null",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591963/31_25-img_rtg29o.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591966/31_33-img_vm3k4q.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591964/31_24-img_apoegh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591965/31_30-img_dglqp3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591966/31_32-img_ck1bqs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591966/31_29-img_kvjgog.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591966/31_31-img_xlpsrl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591965/31_27-img_afjyf6.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591964/31_26-img_anoa99.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591963/31_21-img_zkne0u.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591963/31_23-img_b6qi7o.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591965/31_28-img_qztrbx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591963/31_22-img_xol8uv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591963/31_20-img_gmo5ey.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591963/31_10-img_jfdffm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591962/31_19-img_ilmfjy.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591962/31_17-img_cm9a3w.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591962/31_18-img_dzkfbj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591962/31_09-img_ytzqsz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591962/31_08-img_pfbjvd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591961/31_11-img_urfvcf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591961/31_16-img_fem4tg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591961/31_05-img_vxzyg7.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591961/31_15-img_w9nslt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591960/31_06-img_zdgasb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591960/31_03-img_ynhrhy.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591960/31_04-img_r4syqq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591960/31_07-img_vnmdko.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591960/31_14-img_enlu4m.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591960/31_13-img_ccqhqa.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591959/31_02-img_d8g7vy.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591959/31_12-img_ywhpma.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764591959/31_01-img_ajphbz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1764592502/31_35-video_v9ofwd.mp4"
+   
+    ]}, 
+
+    {"_id":{"$oid":""},
+  "title":"Locação de Duplex no Tatuapé",
+  "description":"Viva o melhor do Tatuapé neste duplex exclusivo para locação! O pacote de R$ 7.500,00 inclui um imóvel mobiliado, closet espaçoso, com 2 vagas de garagem e um conjunto de comodidades que elevam seu dia a dia: no condomínio você conta com academia equipada, piscina, mercadinho interno e lazer completo. Um ambiente moderno, prático e perfeito para quem busca conforto e qualidade de vida em um dos endereços mais desejados da zona leste.",
+  "price":{"$numberLong":"7500"},
+  "address":"Tatuapé",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764934781/01_16-tatuape_sivcvd.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "2"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10032",
+  "financing":"NÂO",
+  "iptu":"00",
+  "downPayment":"null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933163/02_17-img_szo1dj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933156/02_11-img_kwuprf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933156/02_10-img_xdqpto.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_02-img_jpeevj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_01-img_uz6fu9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933164/02_19-img_ixuros.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933162/02_16-img_bbbrtk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933162/02_15-img_oym2om.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933161/02_14-img_apuf5k.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933156/02_13-img_xjayr3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933156/02_12-img_v373kx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933156/02_08-img_e3xizm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933156/02_09-img_sycogx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_07-img_k0lgxx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_04-img_tgeywh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_04-img_tgeywh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_06-img_tepaus.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_03-img_d5oisw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764933155/02_05-img_szbpkf.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Excelente casa à venda no Itaim Paulista",
+  "description":"Excelente casa à venda no Itaim Paulista, perfeita para quem busca conforto e praticidade. O imóvel conta com 3 dormitórios, sendo 1 suíte, sala espaçosa, cozinha funcional, banheiro social, área de serviço e garagem coberta para 2 carros, além dos 171m² de área contruída possui 194,25m² de área completa. Está localizada em uma região tranquila, com ótima infraestrutura, próxima a escolas, supermercados, farmácias, comércios em geral e com fácil acesso às principais avenidas e à Estação CPTM Itaim Paulista. Ideal para viver bem com sua família! Agende sua visita.",
+  "price":{"$numberLong":"680000"},
+  "address":"Itaim Paulista",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962687/32_02-img_dugwqb.jpg",
+   "facilities": {
+    "bathrooms": "3",
+    "bedrooms": "2",
+    "area": "194m²",
+    "garage": "2"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10033",
+  "financing":" Não informado",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962696/32_09-img_gadp6a.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962696/32_08-img_vkmepi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962695/32_07-img_bq1fe5.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962698/32_10-img_qi1a7n.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962692/32_06-img_dgemxn.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962692/32_05-img_ehzgf9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962688/32_04-img_xly5wk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962687/32_03-img_e3btjz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962687/32_02-img_dugwqb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1764962687/32_01-img_syxgaf.jpg"
+   
+    ]},
+
+        {"_id":{"$oid":""},
+  "title":"Casa a venda em Itaquera ",
+  "description":"5 dormitórios sendo uma suíte, 1 sala de estar, 1 sala de jantar, cozinha, lavanderia, 2 banheiros e 1 lavabo, garagem para 2 carros e 1 ponto comercial. Está a apenas 15 minutos do shopping e estádio, e 5 minutos andando da estação Dom Bosco, com fácil acesso a avenida jacu pêssego. Documentação OK para financiamento por bancos privados (pela caixa não passa por conta da construção). Aceita troca por apartamento em Itaquera e região com 3 dormitórios e média 60m² e elevador.",
+  "price":{"$numberLong":"550000"},
+  "address":"Itaquera",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191354/33_15-img_okh2ot.jpg",
+   "facilities": {
+    "bathrooms": "2",
+    "bedrooms": "5",
+    "area": "180m²",
+    "garage": "2"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10034",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191355/33_21-img_ev9jii.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191354/33_22-img_xiobwb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191354/33_20-img_lj9lsq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191353/33_19-img_zsbcx9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191353/33_14-img_rpqrgt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191353/33_18-img_taxh1r.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191352/33_16-img_xyuznr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191351/33_13-img_naiur0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191350/33_12-img_vbujow.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191350/33_10-img_qpw3iw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191350/33_11-img_uboxof.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191350/33_05-img_u8lwn0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191349/33_09-img_prqfhb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191348/33_04-img_ovx4gp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191348/33_07-img_kj1npc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191347/33_01-img_rhmwrh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191352/33_17-img_xz1sui.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191354/33_23-img_gaovrx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191354/33_15-img_okh2ot.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191350/33_12-img_vbujow.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191350/33_08-img_cj96zt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191349/33_06-img_pjkvmt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191348/33_03-img_ldhy09.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1769191348/33_02-img_tjdoxz.jpg"
+   
+    ]},
+
+     {"_id":{"$oid":""},
+  "title":"Apartamento à venda",
+  "description":"Na Rua Soter de Araújo. Imóvel de 36m² com 2 dormitórios, sala, cozinha, banheiro e lavanderia, sem vaga, por R$ 140.000,00 e aceita financiamento. Uma excelente oportunidade para sair do aluguel e conquistar seu próprio imóvel com parcelas que podem caber no seu orçamento, ideal para quem busca praticidade, investimento ou o primeiro lar.",
+  "price":{"$numberLong":"140000"},
+  "address":"Rua soter de Araújo",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666405/34_02_img_ehcebi.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "36m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10035",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666409/34_04_img_gwmvb9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666409/34_03_img_j26usv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666405/34_02_img_ehcebi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666405/34_01_img_manqsc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666409/34_05_img_lzocuu.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666409/34_06_img_lifaz9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666410/34_07_img_l86w3u.jpg"
+   
+    ]}, 
+
+       {"_id":{"$oid":""},
+  "title":"Apartamento à venda",
+  "description":"Apartamento à venda na Rua Rafael Della Monica com 2 dormitórios, sala, cozinha, lavanderia e banheiro, sem vaga, por R$ 135.000,00 e disponível para financiamento. Uma ótima oportunidade para sair do aluguel e conquistar seu próprio imóvel com parcelas que podem caber no seu planejamento financeiro.",
+  "price":{"$numberLong":"135000"},
+  "address":"Rua Rafael Della Monica",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/35_04_img_xa1o6e.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10036",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/35_04_img_xa1o6e.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666374/35_05_img_qhd7du.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/35_06_img_aipnza.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666374/35_02_img_tep8px.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666373/35_03_img_wdbuhl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666373/35_01_img_suv6z8.jpg"
+   
+    ]},
+
+         {"_id":{"$oid":""},
+  "title":"Apartamento para venda na região do setor G",
+  "description":"Apartamento à venda na região do Setor G, com 46m², 2 dormitórios, sala, cozinha, banheiro, lavanderia e 1 vaga rotativa, por R$ 145.000,00 e disponível para financiamento. Uma excelente oportunidade para quem busca um imóvel bem distribuído, com vaga e valor acessível, ideal para sair do aluguel e comprar seu primeiro imóvel!",
+  "price":{"$numberLong":"145000"},
+  "address":"Setor G - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_03_img_xo7qrc.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "46m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10037",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_10_img_hgmpfq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666376/36_11_img_immnzc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_09_img_oei7e3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_08_img_bwklwh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_07_img_jj1skp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_04_img_bu4zhr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_03_img_xo7qrc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_06_img_td9z4j.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666375/36_05_img_jopgdd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666373/36_02_img_fjqtxl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666373/36_01_img_n1v2q8.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento região do Sarandi",
+  "description":"Imóvel com 2 dormitórios, sala, cozinha, lavanderia, banheiro e 1 vaga rotativa, por R$ 140.000,00 e disponível para financiamento. Uma oportunidade acessível para sair do aluguel e conquistar seu próprio imóvel, com condições que podem se encaixar no seu planejamento financeiro.",
+  "price":{"$numberLong":"140000"},
+  "address":"Sarandi- Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666386/37_05_img_pp2mxs.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10038",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666386/37_07_img_ikkjnn.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666386/37_06_img_xvsyvk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666386/37_04_img_mwatfi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666386/37_05_img_pp2mxs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666376/37_02_img_wuwloh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666376/37_03_img_t8xnxo.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666376/37_01_img_twr2ro.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Sobrado de condomínio fechado",
+  "description":"Sobrado em condomínio fechado na região dos Têxteis, com vaga fixa coberta, 2 dormitórios, sala, cozinha, lavanderia e 2 banheiros, por R$ 220.000,00 e aceita financiamento. Uma excelente opção para quem busca mais segurança, conforto e organização em um imóvel pronto para morar, com a tranquilidade de estar em condomínio.",
+  "price":{"$numberLong":"220000"},
+  "address":"Têxteis - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666388/39_04_img_acxbog.jpg",
+   "facilities": {
+    "bathrooms": "2",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10039",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666388/39_04_img_acxbog.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666393/39_09_img_k8x7qr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666393/39_08_img_ggustd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666393/39_07_img_dnnae4.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666387/39_06_img_pdmmoy.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666387/39_05_img_ahptsq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666387/39_03_img_xewnxm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666387/39_02_img_ggwcgx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770666387/39_01_img_d65eaq.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento na Rua Alexandre Davidenko",
+  "description":"Apartamento à venda na Rua Alexandre Davidenko por R$ 100.000,00 e assume as parcelas da Cohab, com saldo para quitação de R$ 16.000,00, localizado no segundo andar e com vaga de garagem; uma excelente oportunidade para quem busca baixo valor de entrada e condições facilitadas para conquistar o próprio imóvel.",
+  "price":{"$numberLong":"100000"},
+  "address":"Rua: Alexandre Davidenko - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814944/41_10_img_bhptjz.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "2"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10040",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814948/41_11_img_puwpyn.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814944/41_12_img_qnoruk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814944/41_10_img_bhptjz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814944/41_06_img_giwnci.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814943/41_09_img_hb9ur1.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814943/41_08_img_nsxgp2.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814937/41_03_img_uiobrj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814937/41_05_img_dr3zmz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814937/41_04_img_xazwe0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814936/41_01_img_ebxfmb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814936/41_02_img_tf1p6a.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770814945/41_07_video_pbgopi.mp4"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento em Itaquera",
+  "description":"APARTAMENTO PARA VENDA EM ITAQUERA. Por R$ 250.000,00 - aceita financiamento. Com 42m² bem distribuídos, este apartamento conta com 2 dormitórios, sala, cozinha, banheiro e 1 vaga de garagem, ideal para quem busca funcionalidade e um ambiente acolhedor.",
+  "price":{"$numberLong":"250000"},
+  "address":"Itaquera",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814945/42_04_img_ykwpgf.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "42m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10041",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814944/42_01_img_ribg0t.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814945/42_04_img_ykwpgf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814946/42_07_img_s6nsng.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814946/42_03_img_xz5vif.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814951/42_10_img_q2e746.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814951/42_12_img_egsazk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814951/42_11_img_y4z8fc.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814952/42_13_img_yqnkb0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814952/42_14_img_u8q3wu.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814948/42_09_img_vgaoia.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814947/42_08_img_nnxye0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814946/42_05_img_p7tmar.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814946/42_06_img_zkekm0.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814945/42_02_img_p2tvdq.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento em Itaquera",
+  "description":"Apartamento à venda em Itaquera. Por R$ 250.000,00 - aceita financiamento. Com 42m² bem distribuídos, este apartamento conta com 2 dormitórios, sala, cozinha, banheiro e 1 vaga de garagem, ideal para quem busca funcionalidade e um ambiente acolhedor.",
+  "price":{"$numberLong":"250000"},
+  "address":"Itaquera",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814985/43_07_img_rplfq6.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "42m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10042",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815714/43_09_img_mqjfcd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815007/43_08_img_jug2qz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814985/43_07_img_rplfq6.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814957/43_06_img_clpk6h.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814957/43_05_img_gsi0k5.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814953/43_04_img_tfaxqb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814952/43_03_img_vmd66w.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814952/43_02_img_ib7vnb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814952/43_01_img_rybvbg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770815946/43_10_video_yuw5rx.mp4"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento no Igarapé da missão",
+  "description":"Apartamento disponível para venda na Rua Igarapé da Missão, com 2 dormitórios, sala, cozinha, banheiro, lavanderia e 1 vaga fixa coberta, por R$ 145.000,00 e aceita financiamento; uma ótima oportunidade para quem busca segurança, praticidade e a chance de sair do aluguel com condições que facilitam a conquista do próprio imóvel.",
+  "price":{"$numberLong":"145000"},
+  "address":"Igarapé da missão - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815935/44_08_img_o6remj.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10043",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815939/44_04_img_g2xoqi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815938/44_09_img_nag1yz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815936/44_07_img_e9ehwd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815935/44_08_img_o6remj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815933/44_05_img_lmx7e1.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815932/44_03_img_p1wxci.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815932/44_06_img_efvqum.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815932/44_02_img_kgoxhq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815929/44_01_img_v5rdam.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento na região da Igarape da missão",
+  "description":"Imóvel à venda na Rua Igarapé da Missão por R$ 65.000,00 à vista, não aceita bens na negociação, com dívida COHAB restante de R$ 25.477,55 dividida em 105 parcelas de R$ 231,00; apartamento de 43m² com garagem rotativa e condomínio no valor de R$ 231,00 — uma oportunidade com baixo valor de entrada para quem busca adquirir seu imóvel próprio assumindo parcelas acessíveis.",
+  "price":{"$numberLong":"65000"},
+  "address":"Igarapé da missão - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815940/45_07_img_diqpra.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "43m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10044",
+  "financing":"NÃO",
+  "iptu":" null",
+  "downPayment":"65000",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815940/45_08_img_gvtmcs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815940/45_07_img_diqpra.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815940/45_9_img_tigjcs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815940/45_06_img_zgaeti.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815939/45_03_img_vcekyg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815939/45_02_img_d9kevs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815939/45_05_img_tbh8yx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815939/45_04_img_r93gqa.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815938/45_01_img_zwszqt.jpg"
+   
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento com piscina no condomínio",
+  "description":"Apartamento à venda próximo ao Terminal Cidade Tiradentes, localizado no 3º andar, com vaga rotativa e móveis planejados que permanecem no imóvel, em condomínio com parquinho, salão de festas e piscina; aceita financiamento e há possibilidade de parcelar a entrada, valor de R$ 210.000,00 — uma excelente oportunidade para quem busca lazer, praticidade e facilidade na negociação.",
+  "price":{"$numberLong":"210000"},
+  "address":"Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814923/46_01_img_v5moqb.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10045",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814923/46_01_img_v5moqb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814923/46_02_img_vrf2hs.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814924/46_03_img_uavlkj.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814923/46_04_img_rxpy4n.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814923/46_05_img_h4mblt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814924/46_06_img_lpq9zz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814925/46_07_img_sesehm.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814925/46_08_img_yddax9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814925/46_09_img_twozmd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814926/46_10_img_s7lkn8.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814926/46_11_img_ghqjrv.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814926/46_12_img_yjqy13.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814927/46_13_img_eh6bvo.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814927/46_14_img_ob4fcw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814927/46_15_img_z7ighk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814933/46_17_img_ugbsce.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770814932/46_18_img_hcoxhi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770814934/46_20_video_lmwh6t.mp4",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770814941/46_16_video_t4mtt2.mp4",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1770814924/46_03_video_cztyjh.mp4"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Apartamento em Guaianases ",
+  "description":"APARTAMENTO À VENDA – GUAIANASES. Excelente oportunidade com 34m² no 1º andar, pronto para morar, piso em porcelanato e fácil acesso, localizado na Rua Inácio de Oliveira Campos, nº 550, a apenas 7 minutos da CPTM Guaianases; valor de venda R$ 60.000,00 (aceita proposta), parcelas fixas de R$ 860,00, saldo devedor de R$ 123.000,00, condomínio R$ 420,00, sem vaga; condomínio conta com salão de festas, área verde, playground, área gourmet, bicicletário e mini mercado, contrato CAIXA e documentação jurídica em ordem — uma ótima opção para quem busca praticidade, mobilidade e condição facilitada de aquisição.",
+  "price":{"$numberLong":"60000"},
+  "address":"Rua Inácio de Oliveira Campos, nº 550 – Guaianases. A apenas 7 minutos da CPTM Guaianases",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815952/47_02_img_kdv5tx.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "34m²",
+    "garage": "0"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10046",
+  "financing":"Não informado",
+  "iptu":" null",
+  "downPayment":"60000",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815955/47_06_img_zcnsvn.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815955/47_07_img_capral.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815953/47_05_img_bhufqh.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815953/47_03_img_cbtzh9.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815953/47_04_img_ik29qy.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815952/47_02_img_kdv5tx.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770815952/47_01_img_xcwgli.jpg"
+   
+    ]},
+
+
+     {"_id":{"$oid":""},
+  "title":"Casa à venda",
+  "description":"Casa à venda no Sítio Conceição – Cidade Tiradentes. Excelente oportunidade para morar e também investir, imóvel com 2 casas no mesmo terreno sendo uma casa térrea com 3 cômodos na parte de baixo e outra casa superior com 6 cômodos na parte de cima, além de 1 vaga de garagem; valor de venda R$ 290.000,00 — ideal para quem busca espaço, possibilidade de renda extra ou moradia para duas famílias no mesmo local.",
+  "price":{"$numberLong":"290000"},
+  "address":"Sitio Conceição - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819298/48_02_img_zf6hzl.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10047",
+  "financing":"Não informado",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819299/48_04_img_nruhe6.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819299/48_03_img_iirn5m.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819298/48_02_img_zf6hzl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819298/48_01_img_lebbwz.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819302/48_05_img_e2snmp.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819303/48_06_img_pvxhu7.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1770819305/48_07_img_seifxe.jpg"
+   
+    ]},
+
+     {"_id":{"$oid":""},
+  "title":"Apartamento à venda",
+  "description":"Apartamento à venda na região do 65 dos Grandes, uma excelente oportunidade para quem deseja conquistar o próprio imóvel com segurança e ótimo custo-benefício! Localizado no 3º andar, conta com vaga fixa e móveis planejados que permanecem no imóvel, garantindo mais praticidade e economia na mudança. Aceita financiamento, facilitando ainda mais a realização do seu sonho da casa própria, tudo isso pelo valor de R$ 165.000,00. Ideal para morar com conforto ou investir com alto potencial de valorização.",
+  "price":{"$numberLong":"165000"},
+  "address":"Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522482/49_04_img_ohngbq.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10048",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522486/49_08_img_jzblpi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522485/49_07_img_htdo2r.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522483/49_06_img_yyqfb4.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522482/49_02_img_u9ddst.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522482/49_04_img_ohngbq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522482/49_05_img_pglvih.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522482/49_03_img_xogtzk.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771522481/49_01_img_svvrcu.jpg"
+   
+    ]},
+
+      {"_id":{"$oid":""},
+  "title":"Apartamento à venda",
+  "description":"Apartamento à venda na região do Sítio Conceição, com 46m² muito bem distribuídos, ideal para quem busca conforto e praticidade no dia a dia. O imóvel conta com 2 dormitórios, sala aconchegante, cozinha funcional, banheiro e lavanderia, perfeito para morar ou investir. Excelente oportunidade por R$ 145.000,00 e aceita financiamento, facilitando a conquista do seu imóvel próprio com parcelas que cabem no bolso.",
+  "price":{"$numberLong":"145000"},
+  "address":"Sitio Conceição - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613040/50_07_img_rsidtl.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "46m²",
+    "garage": ""
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10049",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613040/50_07_img_rsidtl.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613039/50_08_img_f29bcw.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613038/50_02_img_rsyvup.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613038/50_06_img_zakuun.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613038/50_04_img_zefvxb.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613038/50_05_img_vfbhkg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613038/50_03_img_f6rrvd.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1771613038/50_01_img_e6j52u.jpg"
+   
+    ]},
+
+    
+      {"_id":{"$oid":""},
+  "title":"Apartamento à venda",
+  "description":"Imperdível oportunidade pelo programa Minha Casa Minha Vida! Apartamento pronto para morar, com 2 dormitórios, sala aconchegante, cozinha, banheiro e vaga de garagem rotativa, tudo isso por apenas R$ 150.000,00, com condomínio super acessível de R$130,00, localizado na Cidade Tiradentes, na Rua Dante Alderigo, 342. Ideal para quem quer sair do aluguel e conquistar o próprio imóvel com ótimo custo-benefício e excelente potencial de valorização!",
+  "price":{"$numberLong":"150000"},
+  "address":"Rua Dante Alderigo, 342- Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/52_01_img_dbbyky.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10050",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112085/52_09_img_lbekk3.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112085/52_07_img_ir4lyr.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112085/52_06_img_ccimno.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112084/52_05_img_u8jqeo.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112084/52_03_img_thgqws.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112084/52_04_img_axq2kg.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/52_01_img_dbbyky.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/52_02_img_mso3lt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1772112085/52_05_video_p0ahzv.mp4"
+   
+    ]},
+
+    
+      {"_id":{"$oid":""},
+  "title":"Setor G",
+  "description":"Excelente oportunidade no Setor G! Apartamento reformado, com 46m², localizado no 4º andar e com vaga rotativa, disponível por apenas R$ 68.000,00 + parcelas de R$ 450,00 que podem ser transferidas para o seu nome, sem necessidade de nome limpo e sem comprovação de renda para assumir as parcelas. Uma chance acessível e estratégica para quem deseja conquistar o imóvel próprio pagando menos que um aluguel!",
+  "price":{"$numberLong":"68000"},
+  "address":"Setor G - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/51_04_img_wz3avi.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "46m²",
+    "garage": ""
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10051",
+  "financing":"SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/51_04_img_wz3avi.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/51_07_img_xmrldu.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/51_02_img_blozbq.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112084/51_05_img_k5yp3g.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112084/51_08_img_g1qmqt.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112084/51_10_img_d2nkyn.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/51_09_img_bbrimf.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/51_06_img_sg255k.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112083/51_03_img_yvjcfu.jpg",
+   "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772112082/51_01_img_hmfdo4.jpg"
+   
+    ]},
+
+     {"_id":{"$oid":""},
+  "title":"Aricanduva",
+  "description":"Apartamento de 43m² próximo ao Shopping Aricanduva, ideal para quem busca praticidade, conforto e excelente localização! O imóvel conta com 2 quartos, sala bem distribuída, cozinha, lavanderia, banheiro e ainda possui vaga de garagem fixa, um diferencial importante na região. Localizado no 8° andar, oferece mais privacidade e ventilação. O condomínio é completo, com playground, academia, mercadinho, salão de festas e portaria 24 horas, garantindo segurança e comodidade para toda a família. Valor de R$ 300 mil, com possibilidade de assumir parcela de R$ 1.500 e apenas R$ 70 mil para quitar.Uma ótima oportunidade para sair do aluguel e investir no que é seu!",
+  "price":{"$numberLong":"300000"},
+  "address":"Proximo ao shopping Aricanduva",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480768/53_11_img_wzovdu.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "43m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10052",
+  "financing":" Não informado",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480762/53_05_img_iulm3e.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480761/53_06_img_bvdqjx.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480760/53_10_img_xxz00i.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480760/53_07_img_ih4dkw.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480760/53_09_img_lxka2t.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480759/53_01_img_w9key9.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480759/53_08_img_awphcl.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480759/53_03_img_nudmmj.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480759/53_04_img_e4vmlm.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480759/53_02_img_nbbumj.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772480768/53_11_img_wzovdu.jpg"
+   
+    ]},
+
+    {"_id":{"$oid":""},
+  "title":"Cidade Tiradentes",
+  "description":"Apartamento à venda na Rua Arroio Itapevi por apenas R$ 145.000,00, uma excelente oportunidade para quem busca sair do aluguel e conquistar o próprio imóvel! Localizado no quarto andar, o apartamento oferece mais privacidade e ventilação, além de contar com vaga de garagem demarcada, garantindo mais comodidade e segurança no dia a dia. Aceita financiamento bancário, facilitando ainda mais a realização do seu sonho. Um ótimo custo-benefício para morar ou investir. Não perca essa chance!",
+  "price":{"$numberLong":"145000"},
+  "address":"Rua Arroio Itapevi, Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566738/54_03_mg_rtvmcc.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10053",
+  "financing":" SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566739/54_10_mg_lpcqcn.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566739/54_07_mg_nqpjhg.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566739/54_09_mg_me33vb.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566738/54_06_mg_nqhboy.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566738/54_05_mg_loutdo.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566738/54_03_mg_rtvmcc.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566738/54_02_mg_byzqeg.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566737/54_01_mg_dnan4z.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772566737/54_04_mg_of93ad.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/video/upload/v1772566740/54_08_video_kl952b.mp4"
+    
+    ]},
+
+     {"_id":{"$oid":""},
+  "title":"Cidade Tiradentes",
+  "description":"Apartamento à venda na Cidade Tiradentes. Excelente oportunidade para sair do aluguel! Localizado na região dos Têxteis, este imóvel é ideal para quem busca conforto, praticidade e facilidade de financiamento. O apartamento conta com 2 quartos, sala aconchegante, cozinha, banheiro, lavanderia e 1 vaga de garagem rotativa, oferecendo tudo o que você precisa para o dia a dia. O condomínio é bem organizado e reformado, possui espaço com churrasqueira e está em ótima localização, próximo a comércios, escolas e transporte, facilitando muito a rotina. Valor de venda: R$ 168.000, com documentação 100% regularizada e aceita financiamento, tornando a compra ainda mais acessível. Entre em contato e agende uma visita. Essa pode ser a oportunidade perfeita para conquistar seu imóvel! ",
+  "price":{"$numberLong":"168000"},
+  "address":"Têxteis - Cidade Tiradentes",
+  "city":"São Paulo",
+  "country":"BR",
+  "image":"https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802571/55_10_img_u9xl7x.jpg",
+   "facilities": {
+    "bathrooms": "1",
+    "bedrooms": "2",
+    "area": "m²",
+    "garage": "1"
+  },
+  "userEmail":"kamillyr284@gmail.com",
+  "createdAt":{"$date":{"$numberLong":"1750284814210"}},
+  "updatedAt":{"$date":{"$numberLong":"1750284814210"}},
+  "code":"10054",
+  "financing":" SIM",
+  "iptu":" null",
+  "downPayment":" null",
+  "carrossel":
+  
+  [
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802571/55_10_img_u9xl7x.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802570/55_16_img_qihfds.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802570/55_15_img_rccrkn.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802570/55_14_img_cimdmg.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802570/55_13_img_arcyie.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802570/55_12_img_rqlxrk.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802570/55_11_img_o0hydz.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802570/55_04_img_b8v39t.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_09_img_ipj7h4.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_08_img_me4x3f.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_05_img_gn1bno.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_03_img_qsjxnf.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_02_img_pxxz8f.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_07_img_icmwk8.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_06_img_zpa8iy.jpg",
+    "https://res.cloudinary.com/dfwzpqhaz/image/upload/v1772802569/55_01_img_ppzwno.jpg"
+    
     ]}
+
+
+
+
 
 
 ]
