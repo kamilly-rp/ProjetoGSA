@@ -19,11 +19,13 @@ const Properties = () => {
       const title = item.title?.toLowerCase() || "";
       const city = item.city?.toLowerCase() || "";
       const address = item.address?.toLowerCase() || "";
+      const code = item.code?.toString().toLowerCase() || "";
 
       return (
         title.includes(query) ||
         city.includes(query) ||
-        address.includes(query)
+        address.includes(query) ||
+        code.includes(query)
       );
     });
 
