@@ -1,0 +1,140 @@
+
+/* =====================================
+   LIGHTBOX - GSA IMOBILIÁRIA
+   Estilos exclusivos da visualização
+   ampliada das imagens.
+===================================== */
+
+.image-lightbox {
+    position: fixed;
+    inset: 0;
+
+    width: 100%;
+    height: 100vh;
+    height: 100dvh;
+
+    background: rgba(0, 0, 0, 0.95);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    z-index: 99999;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Imagem ampliada */
+
+.lightbox-image {
+    max-width: 85%;
+    max-height: 85vh;
+    max-height: 85dvh;
+
+    width: auto;
+    height: auto;
+
+    object-fit: contain;
+    border-radius: 5px;
+}
+
+/* Botões de navegação */
+
+.lightbox-close,
+.lightbox-prev,
+.lightbox-next {
+    position: absolute;
+
+    background: transparent;
+    border: none;
+
+    color: white;
+    cursor: pointer;
+
+    z-index: 100000;
+
+    transition: color 0.2s ease;
+}
+
+/* Efeito ao passar o mouse */
+
+.lightbox-close:hover,
+.lightbox-prev:hover,
+.lightbox-next:hover {
+    color: #f3a000;
+}
+
+/* Botão fechar */
+
+.lightbox-close {
+    top: 20px;
+    right: 35px;
+
+    font-size: 45px;
+    line-height: 1;
+}
+
+/* Foto anterior */
+
+.lightbox-prev {
+    left: 30px;
+    font-size: 35px;
+}
+
+/* Próxima foto */
+
+.lightbox-next {
+    right: 30px;
+    font-size: 35px;
+}
+
+/* Contador de imagens */
+
+.lightbox-counter {
+    position: absolute;
+    bottom: 20px;
+
+    color: white;
+    font-size: 14px;
+
+    background: rgba(0, 0, 0, 0.4);
+
+    padding: 8px 15px;
+    border-radius: 20px;
+}
+
+/* Responsividade */
+
+@media (max-width: 768px) {
+
+    .image-lightbox {
+        padding: 10px;
+    }
+
+    .lightbox-image {
+        max-width: 95%;
+        max-height: 75vh;
+        max-height: 75dvh;
+    }
+
+    .lightbox-close {
+        top: 15px;
+        right: 15px;
+        font-size: 38px;
+    }
+
+    .lightbox-prev {
+        left: 10px;
+        font-size: 25px;
+    }
+
+    .lightbox-next {
+        right: 10px;
+        font-size: 25px;
+    }
+
+    .lightbox-counter {
+        bottom: 15px;
+        font-size: 12px;
+    }
+}
